@@ -31,9 +31,9 @@
 
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
-[![Instagram Badge](https://img.shields.io/badge/-@turwashmusic-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arifakhtar51/)](https://www.instagram.com/arifakhtar51/)
-[![Linkedin Badge](https://img.shields.io/badge/-turwashchakraborty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/turwashchakraborty/)](https://www.linkedin.com/in/turwashchakraborty/)
-[![Facebook Badge](https://img.shields.io/badge/-turwashchakraborty-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/turwash.chakraborty)](https://www.facebook.com/turwash.chakraborty)
+[![Instagram Badge](https://img.shields.io/badge/-@arif_Insta-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arifakhtar51/)](https://www.instagram.com/arifakhtar51/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arif_Akhtar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/turwashchakraborty/)](https://www.linkedin.com/in/turwashchakraborty/)
+[![Facebook Badge](https://img.shields.io/badge/-Arif_Akhtar-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/turwash.chakraborty)](https://www.facebook.com/turwash.chakraborty)
 
 
 <!--

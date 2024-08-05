@@ -36,9 +36,8 @@
 <a href="https://fb.com/https://www.facebook.com/arif.akhtar.3511" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arif.akhtar.3511" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/arifakhtar51/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arifakhtar51/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/arifakhtar51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arifakhtar51/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/arifakhtar902?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/arifakhtar902?hr_r=1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arifakheo8x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arifakheo8x" height="30" width="40" target="_blank"/></a>
-<a href="/https://codeforces.com/profile/arifakhtar808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codeforces.com/profile/arifakhtar808" height="30" width="40" /></a>
+<a href="/https://codeforces.com/profile/arifakhtar808" target="blank">CodeForces</a>
 </p>
 
 

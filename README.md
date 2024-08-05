@@ -18,9 +18,9 @@
 ### I am a web developer
 
 - 👨‍🏭 I’m currently pursuing **B-Tech at MPEC kanpur** <br>
-- 🏫 I’m currently learning **Full Stack Web Devlopment and DSA** <br>
-- 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
+- 🏫 I’m currently learning **Blockchain Devlopment** <br>
+- 🙌 I’m looking to collaborate on **Web + Blockchain Development** <br>
+- 🤔 I’m a **Competitive Programmer**<br>
 - 🥅 2026 Goals: **To get Placed :)** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
@@ -37,15 +37,12 @@
 <a href="https://instagram.com/https://www.instagram.com/arifakhtar51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arifakhtar51/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/arifakhtar51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arifakhtar51/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/arifakhtar902?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/arifakhtar902?hr_r=1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arifakheo8x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arifakheo8x" height="30" width="40" /></a>
-</p>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arifakheo8x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arifakheo8x" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arifakhtar808" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Codeforces_logo.svg" alt="Codeforces Profile">
+</a>
 
 
-<!--
-```
-https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
-```
--->
 
 <br>
 

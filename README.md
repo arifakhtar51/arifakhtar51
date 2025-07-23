@@ -32,7 +32,7 @@
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arif-akhtar-4a8a23247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-akhtar-4a8a23247" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arif-akhtar-4a8a23247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-akhtar-4a8a23247" height="30" width="40" /></a>
 <a href="https://www.facebook.com/arif.akhtar.3511" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arif.akhtar.3511" height="30" width="40" /></a>
 <a href="https://instagram.com/arifakhtar51/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arifakhtar51/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arifakhtar51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arifakhtar51/" height="30" width="40" /></a>
